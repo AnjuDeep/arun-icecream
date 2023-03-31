@@ -1,0 +1,24 @@
+.rightBar{
+    float:right;
+    height:76vh;
+    width:100vh;
+}
+.leftBar{
+    float:left;
+}
+.rightCups{
+    float:right;
+    margin-right: 12vh;
+}
+.leftCups{
+    float:left;
+    width:70vh;
+    height:65vh;
+    margin-left: 20vh;
+}
+.leftIbar{
+    float:left;
+    width:70vh;
+    height:75vh;
+    margin-left: 20vh;
+}

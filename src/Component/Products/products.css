@@ -1,0 +1,18 @@
+.bars{
+    margin-left: 105vh;
+    margin-top: -30vh;
+}
+.icone{
+    margin-left: 105vh;
+    margin-top: -15vh;
+}
+.ibar{
+    margin-left: 100vh;
+    margin-top: -30vh;
+}
+.btnlink{
+    text-decoration: none;
+}
+.btnlink:hover{
+    color: aliceblue;
+}

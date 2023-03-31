@@ -1,0 +1,12 @@
+.aboutHead{
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.aboutImage{
+    margin-left: 20%;
+}
+.aboutPara{
+    text-align: center;
+}

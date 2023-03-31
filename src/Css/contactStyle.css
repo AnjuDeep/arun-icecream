@@ -1,0 +1,20 @@
+.contactHead{
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+.contactSub{
+    color:blue
+}
+.contactImage{
+    float:right;
+    height: 45vh;
+    width:50vh
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
